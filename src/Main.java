@@ -10,7 +10,7 @@ public class Main {
 
     public static final Integer TAM_POPULACAO = 10;
     public static final Integer TAXA_MUTACAO = 1;
-    public static final Double TAXA_CROSSOVER = 0.7;
+    public static final Integer TAXA_CROSSOVER = 70;
     public static final Integer NUM_GERACOES = 200;
 
     public static final Double DELTA = Math.pow(B, 2.0) - (4.0 * A * C);
